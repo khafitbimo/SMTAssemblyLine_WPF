@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="begin_smt" Class="SMTAssemblyLineDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=LAPTOP-S353QHR9\SQLEXPRESS;Initial Catalog=begin_smt;Persist Security Info=True;User ID=sa" SettingsObjectName="ClassLibrary1.Properties.Settings" SettingsPropertyName="begin_smtConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.master_station" Member="master_stations">
+    <Type Name="master_station">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="station_name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.trn_station" Member="trn_stations">
+    <Type Name="trn_station">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="station_id" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="time_stamp" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.view_test" Member="view_tests">
+    <Type Name="view_test">
+      <Column Name="station_name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="[1]" Member="_1" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="[2]" Member="_2" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="[3]" Member="_3" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="[4]" Member="_4" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="[5]" Member="_5" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.view_trn_station" Member="view_trn_stations">
+    <Type Name="view_trn_station">
+      <Column Name="station_id" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TimeStampHour" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="count" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="station_name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.view_trn_station_inhours" Member="view_trn_station_inhours">
+    <Type Name="view_trn_station_inhour">
+      <Column Name="station_id" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TimeStampHour" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="count" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="station_name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="in_hours" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.view_trn_station_report" Member="view_trn_station_reports">
+    <Type Name="view_trn_station_report">
+      <Column Name="station_id" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="station_name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="time_stamp" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="avg" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="min" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="max" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Function Name="dbo.sp_trn_station_insert" Method="sp_trn_station_insert">
+    <Parameter Name="station_id" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>

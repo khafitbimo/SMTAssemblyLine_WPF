@@ -1,0 +1,317 @@
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\obj\Debug\App.g.cs
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ClassLibrary1.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Charts.v16.2.Core.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Data.v16.2.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Mvvm.v16.2.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.Charts.v16.2.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.Core.v16.2.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.Docking.v16.2.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.Grid.v16.2.Core.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.Grid.v16.2.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.Layout.v16.2.Core.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.LayoutControl.v16.2.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.Printing.v16.2.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\GlobalArcOpsFunctionality.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.CodeParser.v16.2.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.Ribbon.v16.2.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.DocumentViewer.v16.2.Core.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Utils.v16.2.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.XtraGrid.v16.2.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.XtraBars.v16.2.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Office.v16.2.Core.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.XtraPrinting.v16.2.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ClassLibrary1.pdb
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ClassLibrary1.dll.config
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Mvvm.v16.2.xml
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.Charts.v16.2.xml
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.Core.v16.2.xml
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.Docking.v16.2.xml
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.Grid.v16.2.xml
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.Grid.v16.2.Core.xml
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.Layout.v16.2.Core.xml
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.LayoutControl.v16.2.xml
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.Printing.v16.2.xml
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.Ribbon.v16.2.xml
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.DocumentViewer.v16.2.Core.xml
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.XtraGrid.v16.2.xml
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.XtraBars.v16.2.xml
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Office.v16.2.Core.xml
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.Xpf.Charts.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.Xpf.Charts.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.Xpf.Charts.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.Xpf.Charts.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.Xpf.Core.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.Xpf.Core.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.Xpf.Core.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.Xpf.Core.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.Xpf.Docking.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.Xpf.Docking.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.Xpf.Docking.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.Xpf.Docking.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.Xpf.Grid.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.Xpf.Grid.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.Xpf.Grid.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.Xpf.Grid.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.Xpf.LayoutControl.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.Xpf.LayoutControl.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.Xpf.Printing.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.Xpf.Printing.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.Xpf.Printing.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.Xpf.Printing.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.Xpf.Ribbon.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.Xpf.Ribbon.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.Xpf.Ribbon.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.Xpf.Ribbon.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\obj\Debug\WpfApp1.exe.licenses
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Khafit Bimo\Arcstone\Training\ClassLibrary1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ClassLibrary1.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Charts.v16.2.Core.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Data.v16.2.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Mvvm.v16.2.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.Charts.v16.2.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.Core.v16.2.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.Docking.v16.2.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.Grid.v16.2.Core.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.Grid.v16.2.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.Layout.v16.2.Core.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.LayoutControl.v16.2.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.Printing.v16.2.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.CodeParser.v16.2.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.Ribbon.v16.2.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.DocumentViewer.v16.2.Core.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Utils.v16.2.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.XtraGrid.v16.2.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.XtraBars.v16.2.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Office.v16.2.Core.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.XtraPrinting.v16.2.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ClassLibrary1.pdb
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ClassLibrary1.dll.config
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Mvvm.v16.2.xml
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.Charts.v16.2.xml
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.Core.v16.2.xml
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.Docking.v16.2.xml
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.Grid.v16.2.xml
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.Grid.v16.2.Core.xml
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.Layout.v16.2.Core.xml
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.LayoutControl.v16.2.xml
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.Printing.v16.2.xml
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.Ribbon.v16.2.xml
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Xpf.DocumentViewer.v16.2.Core.xml
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.XtraGrid.v16.2.xml
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.XtraBars.v16.2.xml
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Office.v16.2.Core.xml
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.Xpf.Charts.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.Xpf.Charts.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.Xpf.Charts.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.Xpf.Charts.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.Xpf.Core.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.Xpf.Core.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.Xpf.Core.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.Xpf.Core.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.Xpf.Docking.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.Xpf.Docking.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.Xpf.Docking.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.Xpf.Docking.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.Xpf.Grid.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.Xpf.Grid.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.Xpf.Grid.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.Xpf.Grid.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.Xpf.LayoutControl.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.Xpf.LayoutControl.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.Xpf.Printing.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.Xpf.Printing.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.Xpf.Printing.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.Xpf.Printing.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.Xpf.Ribbon.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.Xpf.Ribbon.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.Xpf.Ribbon.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.Xpf.Ribbon.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\obj\Debug\App.g.cs
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\obj\Debug\WpfApp1.exe.licenses
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Khafit Bimo\Arcstone\Training\WEEK 1\Project Training SMT Assembly Line\ClassLibrary1\WpfApp1\obj\Debug\WpfApp1.pdb

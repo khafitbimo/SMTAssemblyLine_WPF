@@ -1,0 +1,33 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ClassLibrary1.Interfaces"
+             xmlns:dxlc="http://schemas.devexpress.com/winfx/2008/xaml/layoutcontrol" xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors" x:Class="ClassLibrary1.Interfaces.DialogNewStation"
+             mc:Ignorable="d" 
+             d:DesignHeight="150" d:DesignWidth="500">
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/GlobalArcOpsFunctionality;component/Resources/ArcOpsResourceDictionary.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
+
+    <dxlc:LayoutControl HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" Orientation="Vertical">
+        <dxlc:LayoutGroup HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" Orientation="Horizontal" ItemSpace="20">
+            
+            <dxlc:LayoutItem Label="Title" Height="30" FontSize="18">
+                <dxe:TextEdit x:Name="textEditTitle"/>
+            </dxlc:LayoutItem>
+        </dxlc:LayoutGroup>
+        <dxlc:LayoutGroup HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" Orientation="Horizontal">
+            <Button x:Name="addStation" Content="Add" HorizontalAlignment="Right" Height="50" VerticalAlignment="Stretch" Width="100" Click="AddStation_Click" />
+            <Button x:Name="cancel" Content="Cancel" HorizontalAlignment="Right" Height="50" VerticalAlignment="Stretch" Width="100" Click="Cancel_Click"/>
+        </dxlc:LayoutGroup>
+
+
+    </dxlc:LayoutControl>
+
+</UserControl>
